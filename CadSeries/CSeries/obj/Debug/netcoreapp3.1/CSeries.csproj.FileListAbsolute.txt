@@ -1,0 +1,13 @@
+C:\Users\NoteBook\Desktop\CadSeries\CSeries\bin\Debug\netcoreapp3.1\CSeries.exe
+C:\Users\NoteBook\Desktop\CadSeries\CSeries\bin\Debug\netcoreapp3.1\CSeries.deps.json
+C:\Users\NoteBook\Desktop\CadSeries\CSeries\bin\Debug\netcoreapp3.1\CSeries.runtimeconfig.json
+C:\Users\NoteBook\Desktop\CadSeries\CSeries\bin\Debug\netcoreapp3.1\CSeries.runtimeconfig.dev.json
+C:\Users\NoteBook\Desktop\CadSeries\CSeries\bin\Debug\netcoreapp3.1\CSeries.dll
+C:\Users\NoteBook\Desktop\CadSeries\CSeries\bin\Debug\netcoreapp3.1\CSeries.pdb
+C:\Users\NoteBook\Desktop\CadSeries\CSeries\obj\Debug\netcoreapp3.1\CSeries.csprojAssemblyReference.cache
+C:\Users\NoteBook\Desktop\CadSeries\CSeries\obj\Debug\netcoreapp3.1\CSeries.AssemblyInfoInputs.cache
+C:\Users\NoteBook\Desktop\CadSeries\CSeries\obj\Debug\netcoreapp3.1\CSeries.AssemblyInfo.cs
+C:\Users\NoteBook\Desktop\CadSeries\CSeries\obj\Debug\netcoreapp3.1\CSeries.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\Desktop\CadSeries\CSeries\obj\Debug\netcoreapp3.1\CSeries.dll
+C:\Users\NoteBook\Desktop\CadSeries\CSeries\obj\Debug\netcoreapp3.1\CSeries.pdb
+C:\Users\NoteBook\Desktop\CadSeries\CSeries\obj\Debug\netcoreapp3.1\CSeries.genruntimeconfig.cache
